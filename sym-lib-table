@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Obsidian-ESP32)(type Legacy)(uri ${KIPRJMOD}/Obsidian-ESP32.lib)(options "")(descr ""))
+)
